@@ -1,0 +1,37 @@
+{
+  "id": "2427191",
+  "name": "直播图标",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14223719",
+      "name": "订阅",
+      "font_class": "dingyue",
+      "unicode": "e757",
+      "unicode_decimal": 59223
+    },
+    {
+      "icon_id": "20441342",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    },
+    {
+      "icon_id": "586888",
+      "name": "fire",
+      "font_class": "fire",
+      "unicode": "e729",
+      "unicode_decimal": 59177
+    },
+    {
+      "icon_id": "7715083",
+      "name": "person",
+      "font_class": "person",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    }
+  ]
+}
